@@ -6,7 +6,7 @@ Type guards in typeScript is important because it provide type safety in the cod
 There are various type of type guard.
 Here are the example:
 
-1. typeof:
+**1. typeof:**
 Type guard is used to identify if the following data or variable is primitive type  like string, or number.
 
 example:
