@@ -16,7 +16,7 @@ if (typeof value === "string){
 }
 
 
-2. instanceof:
+**2. instanceof:**
 The instanceof is used to know if the object is an instance of a particular class or function
 
 example:
