@@ -11,15 +11,19 @@ Type guard is used to identify if the following data or variable is primitive ty
 
 example:
 
+```tsx
 if (typeof value === "string){
     console.log('this value is string')
 }
+```
 
 
 **2. instanceof:**
 The instanceof is used to know if the object is an instance of a particular class or function
 
 example:
+```tsx
 if(value instanceof NewClass){
     console.log('this value is instance of NewClass')
 }
+```
